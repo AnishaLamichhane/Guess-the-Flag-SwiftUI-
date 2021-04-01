@@ -9,3 +9,5 @@ Add an @State property to store the user’s score, modify it when they get an a
 Show the player’s current score in a label directly below the flags.
 When someone chooses the wrong flag, tell them their mistake in your alert message – something like “Wrong! That’s the flag of France,” for example.
 
+![project 2](https://user-images.githubusercontent.com/52813885/113307833-48d62980-9325-11eb-883f-112f1e9e373b.gif)
+
